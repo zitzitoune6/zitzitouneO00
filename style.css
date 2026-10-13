@@ -1,0 +1,108 @@
+*
+{
+    color: white;
+}
+.fond,.oui
+{
+    background-color: rgb(204, 0, 255);
+    background-image: url('../1/decord.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+*{
+  font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.taille-grand
+{
+    font-size: 90px;
+}
+.taille-moyen
+{
+    font-size: 65px;
+}
+.streamer
+{
+    text-align: center;
+    margin-top: 300px;
+
+}
+.big3
+{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 50px;
+
+}
+.lien
+{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 35px;
+}
+.aurevoir
+{
+    margin-top: 600px;
+    text-align: right;
+    font-size: 40px;
+}
+.titre-moi
+{
+    margin-top: -50px;
+    font-size: 50px;
+    text-align: center;
+}
+.presentation
+{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 35px;
+}
+.top5
+{
+    font-size: 35px;
+    margin-top: 60px;
+    
+}
+.tableau
+{
+    text-align: center;
+    font-size: 35px;
+}
+.global
+{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 150px;
+    align-self: center;
+}
+
+.fin
+{
+    margin-top: 100px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.retour
+{
+    text-align: right;
+    margin-top: 300px;
+    font-size: 35px;
+}
+
+.main-table
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.retour1
+{
+    text-align: left;
+    margin-top: 300px;
+    font-size: 35px;
+}
